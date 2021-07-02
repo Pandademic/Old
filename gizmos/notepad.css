@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+#NotepadApp{
+   background-color: white;
+   color: black;
+   font-family: 'Amatic SC', cursive;
+
+}
+.App{
+    height: 450px;
+    width: 450px;
+    margin:20px ;
+    display: None;
+}
+textarea{
+    width: 450;
+    height: 420;
+}
