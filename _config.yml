@@ -1,5 +1,3 @@
-gems:
-  - jekyll-octicons
 name: Pandademic
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
