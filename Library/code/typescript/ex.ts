@@ -2,4 +2,4 @@ const user{
    firstName:"John",
    LastName:"Doe"
 }
-console.log(user.firstName)
+console.log(user.firstName);
